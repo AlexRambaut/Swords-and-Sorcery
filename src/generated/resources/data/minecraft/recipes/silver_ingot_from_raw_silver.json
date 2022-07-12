@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "swordsandsorcery:raw_silver"
+  },
+  "result": "swordsandsorcery:silver_ingot",
+  "experience": 0.0,
+  "cookingtime": 100
+}

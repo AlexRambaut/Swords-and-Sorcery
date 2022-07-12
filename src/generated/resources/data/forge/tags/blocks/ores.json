@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "swordsandsorcery:silver_ore",
+    "swordsandsorcery:deepslate_silver_ore",
+    "swordsandsorcery:mana_crystal_ore"
+  ]
+}

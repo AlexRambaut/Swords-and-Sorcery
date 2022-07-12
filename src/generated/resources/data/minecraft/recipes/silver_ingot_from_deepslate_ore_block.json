@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "swordsandsorcery:deepslate_silver_ore"
+  },
+  "result": "swordsandsorcery:silver_ingot",
+  "experience": 1.0,
+  "cookingtime": 100
+}

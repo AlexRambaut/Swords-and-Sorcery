@@ -1,0 +1,20 @@
+{
+  "block.swordsandsorcery.black_lotus": "Black Lotus",
+  "block.swordsandsorcery.deepslate_mana_crystal_ore": "Deepslate Mana Crystal Ore",
+  "block.swordsandsorcery.deepslate_silver_ore": "Deepslate Silver Ore",
+  "block.swordsandsorcery.focusing_rune": "Focusing Rune",
+  "block.swordsandsorcery.mana_crystal_ore": "Mana Crystal Ore",
+  "block.swordsandsorcery.silver_ore": "Silver Ore",
+  "effect.swordsandsorcery.mana_regen": "Mana Regeneration",
+  "item.minecraft.potion.effect.mana_potion": "Mana Potion",
+  "item.swordsandsorcery.arcane_shield": "Arcane Shield",
+  "item.swordsandsorcery.depleted_mana_crystal": "Depleted Mana Crystal",
+  "item.swordsandsorcery.mana_crystal": "Mana Crystal",
+  "item.swordsandsorcery.manablade": "Manablade",
+  "item.swordsandsorcery.raw_silver": "Raw Silver",
+  "item.swordsandsorcery.silver_ingot": "Silver Ingot",
+  "itemGroup.swordsandsorcery": "Swords and Sorcery",
+  "key.castSpell": "Cast Spell",
+  "key.categories.sns": "Swords and Sorcery",
+  "message.notenoughmana": "Not enough mana!"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "swordsandsorcery:block/black_lotus"
+  }
+}

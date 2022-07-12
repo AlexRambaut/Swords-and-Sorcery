@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "swordsandsorcery:black_lotus"
+    }
+  ],
+  "result": {
+    "item": "minecraft:black_dye"
+  }
+}

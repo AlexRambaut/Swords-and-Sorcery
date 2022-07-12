@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "swordsandsorcery:item/arcane_shield"
+  }
+}
